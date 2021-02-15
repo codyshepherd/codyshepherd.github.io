@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>Linux and Things Blog</title>
+<description>Tools for DMing smarter</description>
+<link>https://linuxandthings.com</link>
+<lastBuildDate>Mon, 15 Feb 2021 08:32:20 +0000</lastBuildDate>
+<generator>linux and things</generator>
+<item>
+<title>Features of dm-tools at v1.2.0</title>
+<description>A brief summary of the features of the dm-tools applications at v1.2.0</description>
+<link>https://dm-tools.dev/blog/release-1-2</link>
+<guid>https://dm-tools.dev/blog/release-1-2</guid>
+<pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
