@@ -3,7 +3,7 @@
 <title>Linux and Things Blog</title>
 <description>Tools for DMing smarter</description>
 <link>https://linuxandthings.com</link>
-<lastBuildDate>Mon, 15 Feb 2021 08:32:20 +0000</lastBuildDate>
+<lastBuildDate>Wed, 17 Feb 2021 06:24:52 +0000</lastBuildDate>
 <generator>linux and things</generator>
 <item>
 <title>Features of dm-tools at v1.2.0</title>
@@ -11,6 +11,13 @@
 <link>https://dm-tools.dev/blog/release-1-2</link>
 <guid>https://dm-tools.dev/blog/release-1-2</guid>
 <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+<title>New features added in v1.3.0</title>
+<description>Additional initiative handling in live-game</description>
+<link>https://dm-tools.dev/blog/release-1-3</link>
+<guid>https://dm-tools.dev/blog/release-1-3</guid>
+<pubDate>Tue, 16 Feb 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
